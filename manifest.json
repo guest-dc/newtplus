@@ -1,0 +1,184 @@
+{
+  "minecraft": {
+    "version": "1.21.5",
+    "modLoaders": [
+      {
+        "id": "fabric-0.16.14",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Newt+ (Enhanced Vanilla)",
+  "version": "",
+  "author": "",
+  "files": [
+    {
+      "projectID": 975120,
+      "fileID": 6381090,
+      "required": true
+    },
+    {
+      "projectID": 634062,
+      "fileID": 6378061,
+      "required": true
+    },
+    {
+      "projectID": 551736,
+      "fileID": 6408534,
+      "required": true
+    },
+    {
+      "projectID": 560042,
+      "fileID": 6454705,
+      "required": true
+    },
+    {
+      "projectID": 455508,
+      "fileID": 6369436,
+      "required": true
+    },
+    {
+      "projectID": 1103431,
+      "fileID": 6407767,
+      "required": true
+    },
+    {
+      "projectID": 428912,
+      "fileID": 6364768,
+      "required": true
+    },
+    {
+      "projectID": 1037459,
+      "fileID": 6609126,
+      "required": true
+    },
+    {
+      "projectID": 533097,
+      "fileID": 6564728,
+      "required": true
+    },
+    {
+      "projectID": 308769,
+      "fileID": 6528301,
+      "required": true
+    },
+    {
+      "projectID": 630104,
+      "fileID": 6493337,
+      "required": true
+    },
+    {
+      "projectID": 335493,
+      "fileID": 6501954,
+      "required": true
+    },
+    {
+      "projectID": 596224,
+      "fileID": 6394894,
+      "required": true
+    },
+    {
+      "projectID": 667299,
+      "fileID": 6336634,
+      "required": true
+    },
+    {
+      "projectID": 676136,
+      "fileID": 6393702,
+      "required": true
+    },
+    {
+      "projectID": 459857,
+      "fileID": 6365997,
+      "required": true
+    },
+    {
+      "projectID": 711539,
+      "fileID": 6347548,
+      "required": true
+    },
+    {
+      "projectID": 306612,
+      "fileID": 6614851,
+      "required": true
+    },
+    {
+      "projectID": 394468,
+      "fileID": 6382664,
+      "required": true
+    },
+    {
+      "projectID": 511319,
+      "fileID": 6091019,
+      "required": true
+    },
+    {
+      "projectID": 521480,
+      "fileID": 6356189,
+      "required": true
+    },
+    {
+      "projectID": 360438,
+      "fileID": 6401322,
+      "required": true
+    },
+    {
+      "projectID": 531351,
+      "fileID": 6489459,
+      "required": true
+    },
+    {
+      "projectID": 527334,
+      "fileID": 6348652,
+      "required": true
+    },
+    {
+      "projectID": 558905,
+      "fileID": 6407726,
+      "required": true
+    },
+    {
+      "projectID": 308702,
+      "fileID": 6347337,
+      "required": true
+    },
+    {
+      "projectID": 406343,
+      "fileID": 6507455,
+      "required": true
+    },
+    {
+      "projectID": 574741,
+      "fileID": 5838117,
+      "required": true
+    },
+    {
+      "projectID": 447673,
+      "fileID": 6362088,
+      "required": true
+    },
+    {
+      "projectID": 448233,
+      "fileID": 6355881,
+      "required": true
+    },
+    {
+      "projectID": 686911,
+      "fileID": 6588109,
+      "required": true
+    },
+    {
+      "projectID": 348521,
+      "fileID": 6351756,
+      "required": true
+    },
+    {
+      "projectID": 667464,
+      "fileID": 6347558,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
