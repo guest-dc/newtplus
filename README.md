@@ -1,6 +1,6 @@
-# 🧪 Newt+ (Enhanced Vanilla) — Fabric Edition for 1.21.5+
+# Newt+ (Enhanced Vanilla)
 
-[![Mod List][img-mods]][file-mods]
+[![Mod List][badge-mods]][file-mods]
 
 **A modern, performance-first client-side modpack for Minecraft 1.21.5 and beyond.**
 
@@ -71,5 +71,5 @@ All mods in Newt+ are **client-side only**. That means you can:
 <!-- Files -->
 [file-mods]: <INCLUDED-MODS.md>
 
-<!-- Images -->
-[img-mods]: <https://img.shields.io/badge/Mod_List-FFC0CB?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgLTk2MCA5NjAgOTYwIiB3aWR0aD0iMjQiPjxwYXRoIGQ9Ik0yODAtNjAwdi04MGg1NjB2ODBIMjgwWm0wIDE2MHYtODBoNTYwdjgwSDI4MFptMCAxNjB2LTgwaDU2MHY4MEgyODBaTTE2MC02MDBxLTE3IDAtMjguNS0xMS41VDEyMC02NDBxMC0xNyAxMS41LTI4LjVUMTYwLTY4MHExNyAwIDI4LjUgMTEuNVQyMDAtNjQwcTAgMTctMTEuNSAyOC41VDE2MC02MDBabTAgMTYwcS0xNyAwLTI4LjUtMTEuNVQxMjAtNDgwcTAtMTcgMTEuNS0yOC41VDE2MC01MjBxMTcgMCAyOC41IDExLjVUMjAwLTQ4MHEwIDE3LTExLjUgMjguNVQxNjAtNDQwWm0wIDE2MHEtMTcgMC0yOC41LTExLjVUMTIwLTMyMHEwLTE3IDExLjUtMjguNVQxNjAtMzYwcTE3IDAgMjguNSAxMS41VDIwMC0zMjBxMCAxNy0xMS41IDI4LjVUMTYwLTI4MFoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4%3D>
+<!-- Badges -->
+[badge-mods]: <https://img.shields.io/badge/Mod_List-e9658d?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgLTk2MCA5NjAgOTYwIiB3aWR0aD0iMjQiPjxwYXRoIGQ9Ik0yODAtNjAwdi04MGg1NjB2ODBIMjgwWm0wIDE2MHYtODBoNTYwdjgwSDI4MFptMCAxNjB2LTgwaDU2MHY4MEgyODBaTTE2MC02MDBxLTE3IDAtMjguNS0xMS41VDEyMC02NDBxMC0xNyAxMS41LTI4LjVUMTYwLTY4MHExNyAwIDI4LjUgMTEuNVQyMDAtNjQwcTAgMTctMTEuNSAyOC41VDE2MC02MDBabTAgMTYwcS0xNyAwLTI4LjUtMTEuNVQxMjAtNDgwcTAtMTcgMTEuNS0yOC41VDE2MC01MjBxMTcgMCAyOC41IDExLjVUMjAwLTQ4MHEwIDE3LTExLjUgMjguNVQxNjAtNDQwWm0wIDE2MHEtMTcgMC0yOC41LTExLjVUMTIwLTMyMHEwLTE3IDExLjUtMjguNVQxNjAtMzYwcTE3IDAgMjguNSAxMS41VDIwMC0zMjBxMCAxNy0xMS41IDI4LjVUMTYwLTI4MFoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4%3D>
