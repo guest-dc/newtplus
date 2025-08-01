@@ -5,7 +5,6 @@ A Minecraft modpack designed around improved performance, graphical enhancements
 ## To-Do:
 Add when updated to 1.21.5:
 - [Enhanced Block Entities](https://modrinth.com/mod/ebe)
-- [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)
 
 ## Mods:
 ### Performance
